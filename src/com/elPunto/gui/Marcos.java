@@ -7,6 +7,11 @@ import javax.swing.JFrame;
 
 public class Marcos extends JFrame{
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	public Marcos() {
 		Toolkit pantalla = Toolkit.getDefaultToolkit();
 		setExtendedState(MAXIMIZED_BOTH);
